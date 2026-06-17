@@ -39,7 +39,7 @@ See [CONTRIBUTORS.md](CONTRIBUTORS.md) for a list of acknowledged contributors.
     TL; DR;
     ```bash
     git clone https://github.com/project-instinct/instinct_rl.git
-    python -m pip install -e instinct_rl
+    python -m pip install -e instinct_rl_1.0.2
     ```
 
 - Clone this repository separately from the Isaac Lab installation (i.e. outside the `IsaacLab` directory):
